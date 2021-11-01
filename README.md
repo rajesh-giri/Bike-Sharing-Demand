@@ -1,0 +1,2 @@
+# Bike-Sharing-Demand
+Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs around the world. In this project, forecasting of the bike rental demand of Bike sharing program in Washington, D.C. is done based on historical usage patterns using Random Forest Regressor Model
